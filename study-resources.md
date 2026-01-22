@@ -1,8 +1,8 @@
 # Study Resources
 ## Useful Websites
-- [GitHub Docs] - (https://docs.github.com/)
-- [Markdown Guide] - (https://www.markdownguide.org/)
-- [Git Handbook] - (https://guides.github.com/introduction/git-handbook/)
+- [GitHub Docs] - (https://docs.github.com/).
+- [Markdown Guide] - (https://www.markdownguide.org/).
+- [Git Handbook] - (https://guides.github.com/introduction/git-handbook/).
 ## Tools I Use
 - I prefer to use the text editor Visual Studio Code
 - I like to use the Google Chrome web browser
